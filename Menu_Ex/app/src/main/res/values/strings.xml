@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menu_Ex</string>
+    <string name="add_score_button">Tap Me</string>
+    <string name="score_text_view">0</string>
+</resources>

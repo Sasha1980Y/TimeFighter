@@ -1,0 +1,3 @@
+package utils
+
+fun String.lastChar() : Char = this.get(this.length-1)
